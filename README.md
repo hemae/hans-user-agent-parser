@@ -30,7 +30,7 @@ import ua from 'hans-user-agent-parser'
 ```  
 
 ```typescript
-const userAgent = ua(window)
+const userAgent = ua()
 ```
 
 <a name="user-agent-object"><h2>User agent object</h2></a>

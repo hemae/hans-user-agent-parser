@@ -35,7 +35,7 @@ const desktopCriteria: DesktopDeviceName[] = [
     'macintosh', 'windows', 'linux'
 ]
 
-export default function ua(window?: Window): {
+export default function ua(): {
     device: Device
     touchableDevice: boolean
     deviceName: DeviceName | null

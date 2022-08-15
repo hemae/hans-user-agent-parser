@@ -1,6 +1,6 @@
 {
   "name": "hans-user-agent-parser",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "parser device name, touchable device, device kind",
   "main": "lib/index.js",
   "scripts": {
